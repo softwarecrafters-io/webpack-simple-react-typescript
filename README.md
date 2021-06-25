@@ -1,17 +1,16 @@
 # webpack-simple-react-typescript
 
-Webpack 4 simple boilerplate for React 16 with Typescript 3, Jest & SASS
+Webpack 5 simple boilerplate for React 17 with Typescript 4, Jest & SASS
 
 ![Webpack simple](webpack-simple.jpg)
 
 # Includes
-- React 16
-- React router 4
-- Typescript 3 loader
-- Sass loader
+- React 17
+- React router 5
+- Typescript 4
+- Sass loader 
 - Postcss loader
-- Bundling into HTML plugin
-- Dev server with hot reloading
+- Jest 27
 
 # Instructions
 - Clone this repo
